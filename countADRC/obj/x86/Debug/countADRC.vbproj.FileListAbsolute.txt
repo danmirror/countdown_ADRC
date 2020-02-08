@@ -1,0 +1,15 @@
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.Form1.resources
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.Resources.resources
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.Resource1.resources
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.vbproj.GenerateResource.Cache
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\bin\Debug\countADRC.exe
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\bin\Debug\countADRC.pdb
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\bin\Debug\countADRC.xml
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.Resource2.resources
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.exe
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.xml
+c:\users\danu\documents\visual studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.pdb
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\countADRC\countADRC\bin\Debug\countADRC.exe.manifest
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\countADRC\countADRC\bin\Debug\countADRC.application
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.exe.manifest
+C:\Users\Danu\Documents\Visual Studio 2010\Projects\countADRC\countADRC\obj\x86\Debug\countADRC.application

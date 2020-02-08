@@ -1,0 +1,114 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+countADRC
+</name>
+</assembly>
+<members>
+<member name="P:countADRC.My.Resources.Resource2.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource2.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource2.gong">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource2.imange">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource2.start">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:countADRC.My.Resources.Resource2">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource1.gong">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resource1.trial_mi">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:countADRC.My.Resources.Resource1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.adrc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.bel1">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.buzzer1">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.Countdown11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.CountdownFIX">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.dr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.gong">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.imange">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.start">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.trial_mi">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:countADRC.My.Resources.Resources.Untitled_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:countADRC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
