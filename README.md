@@ -6,3 +6,5 @@
  bahasa pemrograman visual basic
  
  database microsoft acces
+ 
+ database engine harus teristall dalam komputer
